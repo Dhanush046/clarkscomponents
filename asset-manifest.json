@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Dhanush046/clarkscomponents.git/static/css/main.3e10092a.css",
-    "main.js": "/Dhanush046/clarkscomponents.git/static/js/main.8dcbe8d8.js",
+    "main.js": "/Dhanush046/clarkscomponents.git/static/js/main.9ef9185f.js",
     "static/media/6a7c934a.jpg": "/Dhanush046/clarkscomponents.git/static/media/7e2f109d4c882845018df95da0bdbdfc6a7c934a.be27866b158c53471a1a.jpg",
     "static/media/233c5237.jpg": "/Dhanush046/clarkscomponents.git/static/media/aba6177147b31cfc14c21f186978a10b233c5237.f372a21b6b7ca2d58445.jpg",
     "static/media/leather.png": "/Dhanush046/clarkscomponents.git/static/media/leather.304c47db8f7619588250.png",
@@ -12,10 +12,10 @@
     "static/media/aa63615a.jpg": "/Dhanush046/clarkscomponents.git/static/media/da80e382877607a1e815a77f2b7b4a0faa63615a.9d389ede5a0760c7fe6a.jpg",
     "index.html": "/Dhanush046/clarkscomponents.git/index.html",
     "main.3e10092a.css.map": "/Dhanush046/clarkscomponents.git/static/css/main.3e10092a.css.map",
-    "main.8dcbe8d8.js.map": "/Dhanush046/clarkscomponents.git/static/js/main.8dcbe8d8.js.map"
+    "main.9ef9185f.js.map": "/Dhanush046/clarkscomponents.git/static/js/main.9ef9185f.js.map"
   },
   "entrypoints": [
     "static/css/main.3e10092a.css",
-    "static/js/main.8dcbe8d8.js"
+    "static/js/main.9ef9185f.js"
   ]
 }
