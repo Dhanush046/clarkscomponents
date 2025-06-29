@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Dhanush046/clarkscomponents.git/static/css/main.3e10092a.css",
+    "main.js": "/Dhanush046/clarkscomponents.git/static/js/main.8dcbe8d8.js",
+    "static/media/6a7c934a.jpg": "/Dhanush046/clarkscomponents.git/static/media/7e2f109d4c882845018df95da0bdbdfc6a7c934a.be27866b158c53471a1a.jpg",
+    "static/media/233c5237.jpg": "/Dhanush046/clarkscomponents.git/static/media/aba6177147b31cfc14c21f186978a10b233c5237.f372a21b6b7ca2d58445.jpg",
+    "static/media/leather.png": "/Dhanush046/clarkscomponents.git/static/media/leather.304c47db8f7619588250.png",
+    "static/media/2172bb59.jpg": "/Dhanush046/clarkscomponents.git/static/media/c60d78ef82ca5a63dd1f242cd4785bdc2172bb59.ea92112cda44eff0d05a.jpg",
+    "static/media/5a892a3d.jpg": "/Dhanush046/clarkscomponents.git/static/media/32d542137528d502184ec458b7ae38175a892a3d.1a93531352072481e89b.jpg",
+    "static/media/f0816b25.jpg": "/Dhanush046/clarkscomponents.git/static/media/671020261dd01292ab3184aff4d8f585f0816b25.85c6948e26cd65443d3e.jpg",
+    "static/media/d7728d0f.jpg": "/Dhanush046/clarkscomponents.git/static/media/b0ed2bc195a98026cb2a8d941736ef89d7728d0f.2bd8a31d29a2a3e99479.jpg",
+    "static/media/aa63615a.jpg": "/Dhanush046/clarkscomponents.git/static/media/da80e382877607a1e815a77f2b7b4a0faa63615a.9d389ede5a0760c7fe6a.jpg",
+    "index.html": "/Dhanush046/clarkscomponents.git/index.html",
+    "main.3e10092a.css.map": "/Dhanush046/clarkscomponents.git/static/css/main.3e10092a.css.map",
+    "main.8dcbe8d8.js.map": "/Dhanush046/clarkscomponents.git/static/js/main.8dcbe8d8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3e10092a.css",
+    "static/js/main.8dcbe8d8.js"
+  ]
+}
